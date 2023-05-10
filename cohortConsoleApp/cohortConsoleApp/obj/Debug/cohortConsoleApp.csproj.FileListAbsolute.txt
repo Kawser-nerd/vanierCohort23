@@ -1,0 +1,7 @@
+C:\Users\nafik\source\repos\cohortConsoleApp\cohortConsoleApp\bin\Debug\cohortConsoleApp.exe.config
+C:\Users\nafik\source\repos\cohortConsoleApp\cohortConsoleApp\bin\Debug\cohortConsoleApp.exe
+C:\Users\nafik\source\repos\cohortConsoleApp\cohortConsoleApp\bin\Debug\cohortConsoleApp.pdb
+C:\Users\nafik\source\repos\cohortConsoleApp\cohortConsoleApp\obj\Debug\cohortConsoleApp.csprojAssemblyReference.cache
+C:\Users\nafik\source\repos\cohortConsoleApp\cohortConsoleApp\obj\Debug\cohortConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\nafik\source\repos\cohortConsoleApp\cohortConsoleApp\obj\Debug\cohortConsoleApp.exe
+C:\Users\nafik\source\repos\cohortConsoleApp\cohortConsoleApp\obj\Debug\cohortConsoleApp.pdb

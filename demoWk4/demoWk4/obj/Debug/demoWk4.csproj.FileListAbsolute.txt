@@ -1,0 +1,7 @@
+c:\users\nafik\source\repos\demoWk4\demoWk4\bin\Debug\demoWk4.exe.config
+c:\users\nafik\source\repos\demoWk4\demoWk4\bin\Debug\demoWk4.exe
+c:\users\nafik\source\repos\demoWk4\demoWk4\bin\Debug\demoWk4.pdb
+c:\users\nafik\source\repos\demoWk4\demoWk4\obj\Debug\demoWk4.csprojAssemblyReference.cache
+c:\users\nafik\source\repos\demoWk4\demoWk4\obj\Debug\demoWk4.csproj.CoreCompileInputs.cache
+c:\users\nafik\source\repos\demoWk4\demoWk4\obj\Debug\demoWk4.exe
+c:\users\nafik\source\repos\demoWk4\demoWk4\obj\Debug\demoWk4.pdb

@@ -1,0 +1,7 @@
+c:\users\nafik\source\repos\projectwk3\projectwk3\bin\Debug\projectwk3.exe.config
+c:\users\nafik\source\repos\projectwk3\projectwk3\bin\Debug\projectwk3.exe
+c:\users\nafik\source\repos\projectwk3\projectwk3\bin\Debug\projectwk3.pdb
+c:\users\nafik\source\repos\projectwk3\projectwk3\obj\Debug\projectwk3.csprojAssemblyReference.cache
+c:\users\nafik\source\repos\projectwk3\projectwk3\obj\Debug\projectwk3.csproj.CoreCompileInputs.cache
+c:\users\nafik\source\repos\projectwk3\projectwk3\obj\Debug\projectwk3.exe
+c:\users\nafik\source\repos\projectwk3\projectwk3\obj\Debug\projectwk3.pdb
